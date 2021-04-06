@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DBEntity.cs" />
+    <Compile Include="dbo\AdrianaEntity.cs" />
     <Compile Include="dbo\EmpleadoEntity.cs" />
     <Compile Include="dbo\EmpresaEntity.cs" />
     <Compile Include="dbo\TipoIdentificacionEntity.cs" />
