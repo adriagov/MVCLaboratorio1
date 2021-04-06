@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Entity.dbo
 {
-    public class AdrianaEntity
+    class AdrianaEntity
     {
-        // Clase de prueba
+        // prueba
     }
 }
