@@ -66,5 +66,6 @@
     <Build Include="dbo\Tables\TipoIdentificacion.sql" />
     <Build Include="dbo\Store Procedures\EmpresasObtener.sql" />
     <Build Include="dbo\Store Procedures\EmpresaInsertar.sql" />
+    <Build Include="dbo\Tables\Adri.sql" />
   </ItemGroup>
 </Project>
